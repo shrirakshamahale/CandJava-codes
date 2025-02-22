@@ -1,0 +1,44 @@
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+    int distance_travelled,base_charge=0,total_bill=0,discount=0;
+    char vehicle_type[50];
+    printf("enter the vehicle type(car/bus/truck) : ");
+    scanf("%s",&vehicle_type);
+    printf("enter the distance travelled : ");
+    scanf("%d",&distance_travelled);
+    if(strcmp(vehicle_type,"car")==0)
+    {
+        base_charge= 5*distance_travelled;
+        total_bill=base_charge;
+    }
+    else if(strcmp(vehicle_type,"bus")==0)
+    {
+        base_charge= 8*distance_travelled ;
+        if(distance_travelled>=300)
+      {
+        discount=(base_charge*5)/100;
+      }
+    total_bill=base_charge-discount;
+    }
+    else if(strcmp(vehicle_type,"truck")==0)
+    {
+        base_charge=10 *distance_travelled;
+        if(distance_travelled>=600){
+            discount=(base_charge*10)/100;  
+        }
+   
+     total_bill=base_charge-discount;
+    }
+    else
+    {
+        printf("invalid vehicle type");
+        return;
+    }
+printf("vehicle type:%s\n",vehicle_type);
+printf("ditance travelled :%d\n",distance_travelled);
+printf("base charge:%d\n",base_charge);
+printf("discount:%d\n",discount);
+printf("total toll tax:%d\n",total_bill);
+}
