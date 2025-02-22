@@ -1,0 +1,44 @@
+#include<stdio.h>
+#include<string.h>
+void main()
+ {
+   char employee_name[10],performance[60];
+   int employee_id,total_days,bonous,final_salary;
+   float basic_slary;
+   printf("enter the employee name :");
+   scanf("%s",&employee_name);
+   printf("ennter the employee ID :");
+   scanf("%d",&employee_id);
+   printf(" enter total days worked :");
+   scanf("%d",&total_days);
+   printf("enter the employee salary :");
+   scanf("%f",&basic_slary);
+     if(total_days>25)
+     {
+      bonous=basic_slary*0.05;
+     }
+     else{
+      bonous=basic_slary/2;
+     }
+printf("attendence bonus : %d \n",bonous);
+   if(total_days>25)
+   {
+    final_salary=basic_slary*0.05+basic_slary;
+   }
+   else{
+    final_salary=(basic_slary/2)+basic_slary;
+   }
+   printf("final salary : %d \n", final_salary);
+ 
+   if(total_days>15)
+   {
+   
+      if(total_days>25)
+        strcpy(performance,"excellent");
+      else
+        strcpy(performance,"good");
+   }
+    else
+      strcpy(performance,"needs improvement");
+printf("performance-%s",performance);
+ }
