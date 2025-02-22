@@ -1,0 +1,33 @@
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+    char name,ward_type[50];
+    int days,total_bill_before_dis=0 ,total_bill_after_dis=0 ,discount=0;
+    printf("enter the patient name : ");
+    scanf("%s",&name);
+    printf("enter the ward type(g/s/p) : ");
+    scanf("%s",&ward_type);
+    printf("enter the number of days : ");
+    scanf("%d",&days);
+    if(strcmp(ward_type,"g")==0)
+    {
+        total_bill_before_dis= days*1000;
+    }
+    else if(strcmp(ward_type,"s")==0)
+    {
+        total_bill_before_dis=days*2000;
+    }
+    else if(strcmp(ward_type,"p")==0)
+    {
+        total_bill_before_dis=days*5000;
+    }
+if(days>7){
+    discount=(total_bill_before_dis*5)/100;
+}
+total_bill_after_dis=total_bill_before_dis-discount;
+printf("patient name : %s\n",name);
+printf("total bill before discount = %d\n",total_bill_before_dis);
+printf("discount applied :%d\n",discount);
+printf("total bill after discount : %d\n",total_bill_after_dis);
+}
