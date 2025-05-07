@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrirakshamahale&label=Profile%20views&color=0e75b6&style=flat" alt="shrirakshamahale" /> </p>
 
 - 🔭 I’m currently working on **Smart campus navigation system**
+-🔭 I’m currently working on **Smart campus navigation system**
 
 - 🌱 I’m currently learning **python,css,html**
 
