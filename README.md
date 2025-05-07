@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Shriraksha Mahale</h1>
+<h1 align="left">Hi there 👋, I am Shriraksha Mahale</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shrirakshamahale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -40,6 +40,15 @@
 - Exploring Cloud Platforms – AWS, Azure, GCP  
 
 ---
+### 🔗 Connect with Me
+
+- **Gmail:** shrirakshamahale24@gmail.com  
+- **LinkedIn:** [linkedin.com/in/shriraksha-mahale-b85803318](https://linkedin.com/in/shriraksha-mahale-b85803318)  
+- **Substack:** [shriraksha.substack.com](https://shriraksha.substack.com)  
+- **GitHub:** [github.com/shrirakshamahale](https://github.com/shrirakshamahale)  
+- **HackerRank:** [@shrirakshamahal1](https://www.hackerrank.com/@shrirakshamahal1)  
+- **LeetCode:** [shriraksha_mahale823](https://www.leetcode.com/shriraksha_mahale823)  
+---
 
 ### 🧰 Languages & Tools
 
@@ -50,6 +59,7 @@
 
 ---
 
+
 ### 🌟 GitHub Stats
 
 <p align="center">
@@ -57,7 +67,15 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirakshamahale&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrirakshamahale&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrirakshamahale&theme=tokyo-night&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -70,11 +88,3 @@
 
 ---
 
-### 🔗 Connect with Me
-
-- **Gmail:** shrirakshamahale24@gmail.com  
-- **LinkedIn:** [linkedin.com/in/shriraksha-mahale-b85803318](https://linkedin.com/in/shriraksha-mahale-b85803318)  
-- **Substack:** [shriraksha.substack.com](https://shriraksha.substack.com)  
-- **GitHub:** [github.com/shrirakshamahale](https://github.com/shrirakshamahale)  
-- **HackerRank:** [@shrirakshamahal1](https://www.hackerrank.com/@shrirakshamahal1)  
-- **LeetCode:** [shriraksha_mahale823](https://www.leetcode.com/shriraksha_mahale823)  
