@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 I'm Currently Working On:
 
 - **Smart Campus Navigation System** – Flutter-based app for MITE  
 - **Hospital Management System** – Built using C  
@@ -15,7 +15,7 @@
 
 ---
 
-### 📘 Currently Learning
+### 📘I'm Currently Learning:
 
 - Data Structures & Algorithms  
 - C, Java Programming  
@@ -24,7 +24,7 @@
 
 ---
 
-### 🤝 Looking to Collaborate On
+### 🤝 I'm Looking to Collaborate On:
 
 - App development projects – Weather app, Food tracker  
 - AI/ML-based projects – NLP, Automation  
@@ -40,7 +40,7 @@
 - Exploring Cloud Platforms – AWS, Azure, GCP  
 
 ---
-### 🔗 Connect with Me
+### 🔗 Connect with Me:
 
 - **Gmail:** shrirakshamahale24@gmail.com  
 - **LinkedIn:** [linkedin.com/in/shriraksha-mahale-b85803318](https://linkedin.com/in/shriraksha-mahale-b85803318)  
@@ -50,7 +50,7 @@
 - **LeetCode:** [shriraksha_mahale823](https://www.leetcode.com/shriraksha_mahale823)  
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Tools:
 
 - C, Java, Python  
 - HTML, CSS, JavaScript  
